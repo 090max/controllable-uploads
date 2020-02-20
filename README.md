@@ -5,6 +5,8 @@
 
 > Server side implemented in Node.JS 
 
+> Note : All uploaded files get stored in 'storage' folder
+
 
 [![image](https://github.com/090max/controllable-uploads/blob/master/images/pogress.png)]()
 
