@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<script src="uploader.js"></script>
+<body>
+  <header>
+    <center>
+      <h1>Controllable uploads server prototype</h1>
+    </center>
+  </header>
+  <center>
+    <form
+      name="upload"
+      method="POST"
+      enctype="multipart/form-data"
+      action="/upload"
+    >
+      <input type="file" name="inputFile" />
+      <br />
+      <input type="submit" name="submit" value="Upldoad/Resume" />
+    </form>
+
+    <button onclick="uploader.stop()">Pause upload</button>
+    <br />
+    <button onclick="uploader.delete()">Abort Upload</button>
+    <br />
+    <div id="log">Upload Progress :</div>
+  </center>
+
+  <script>
+    function log(html) {
+      document.getElementById("log").innerHTML = html;
+      console.log(html);
+    }
+
+    function onProgress(loaded, total) {
+      log("progress " + loaded + " / " + total);
+    }
+
+    let uploader;
+
+    document.forms.upload.onsubmit = async function(e) {
+      e.preventDefault();
+
+      let file = this.elements.inputFile.files[0];
+      console.log(file);
+      if (!file) return;
+
+      uploader = new Uploader({ file, onProgress });
+
+      try {
+        let uploaded = await uploader.upload();
+
+        if (uploaded) {
+          log("File Uploaded !!");
+          uploader.refresh();
+        }
+      } catch (err) {
+        console.error(err);
+        log("An error occured");
+      }
+    };
+  </script>
+</body>
