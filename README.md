@@ -28,7 +28,7 @@
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
 
-[![INSERT YOUR GRAPHIC HERE](https://drive.google.com/uc?export=view&id=1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D)]()
+[![image](https://drive.google.com/uc?export=view&id=1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D)]()
 
 - Basic API overview.
 - upload / Resume button , To upload or resume a file upload.
