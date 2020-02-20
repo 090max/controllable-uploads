@@ -6,7 +6,7 @@
 > Server side implemented in Node.JS 
 
 
-[![image](https://drive.google.com/uc?export=view&id=1nxhlLQtUr7Z2wag3_nUJllAXW7HC95mZ)]()
+[![image](https://github.com/090max/controllable-uploads/blob/master/images/pogress.png)]()
 
 - Basic API overview.
 - upload / Resume button , To upload or resume a file upload.
