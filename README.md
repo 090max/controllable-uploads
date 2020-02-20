@@ -2,15 +2,13 @@
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
 
-> Subtitle or Short Description Goes Here
+# Controllable-Uploads
 
-> ideally one sentence
+> A platform that allows user to Begin / Resume / Stop an upload process 
 
-> include terms/tags that can be searched
+> Server side implemented in Node.JS 
 
 **Badges will go here**
 
@@ -29,9 +27,8 @@
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
-***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://drive.google.com/file/d/1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D/view?usp=sharing)]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
