@@ -15,7 +15,7 @@
 
 [![image](https://github.com/090max/controllable-uploads/blob/master/images/abort.png)]()
 
-[![image](https://github.com/090max/controllable-uploads/blob/master/images/normal.png)]()
+
 
 
 
