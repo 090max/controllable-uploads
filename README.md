@@ -46,7 +46,7 @@
 
 **Recordit**
 
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![Recordit GIF](https://drive.google.com/file/d/1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D/view)
 
 **ttystudio**
 
