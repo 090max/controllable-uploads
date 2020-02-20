@@ -28,7 +28,7 @@
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
 
-[![INSERT YOUR GRAPHIC HERE](https://drive.google.com/file/d/1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D/view?usp=sharing)]()
+[![INSERT YOUR GRAPHIC HERE](https://drive.google.com/file/d/1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D/preview)]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
