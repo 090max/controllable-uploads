@@ -28,17 +28,20 @@
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
 
-[![image](https://drive.google.com/uc?export=view&id=1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D)]()
+[![image](https://drive.google.com/uc?export=view&id=1V6o08vFv-pU7mFaxOMd__JWljZXzeg_h)]()
 
 - Basic API overview.
 - upload / Resume button , To upload or resume a file upload.
 - Pause ,to pause a file upload.
 - Abort Upload , to stop the upload process , leading to roll back.
 
-[![INSERT YOUR GRAPHIC HERE](https://drive.google.com/uc?export=view&id=1nxhlLQtUr7Z2wag3_nUJllAXW7HC95mZ)]()
+[![image](https://drive.google.com/uc?export=view&id=1nxhlLQtUr7Z2wag3_nUJllAXW7HC95mZ)]()
 
 - In process , The progress meter shows the status.
 
-[![INSERT YOUR GRAPHIC HERE](https://drive.google.com/uc?export=view&id=1V6o08vFv-pU7mFaxOMd__JWljZXzeg_h)]()
+[![image](https://drive.google.com/uc?export=view&id=1PIYHXgmXJ1pglR-sj-BcRoo9nltWZ05D)]()
+
+- Aborted Upload.
+
 
 
